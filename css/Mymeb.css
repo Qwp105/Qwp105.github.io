@@ -1,0 +1,14 @@
+h1{
+    color: #4c9fa3;
+}
+p{
+    color: #8a2be2ad;
+    font-size: 40px;
+    font-family: "Apple Braille";
+}
+#myid{
+    color: rgba(98, 255, 80, 0.66);
+}
+.mycls{
+    color: darkslategrey;
+}
